@@ -19,7 +19,7 @@ var Nav = () => {
         </div>
         <div className="top-bar-right">
           <ul className="menu">
-            <li className="menu-text">By <Link to="http://emile.me" target="_blank">Emile</Link></li>
+            <li className="menu-text">By <a href="http://emile.me" target="_blank">Emile</a></li>
           </ul>
         </div>
       </div>
